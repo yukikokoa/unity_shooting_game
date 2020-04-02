@@ -63,6 +63,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\BoundaryScript.cs" />
+    <Compile Include="Assets\Scripts\BulletScript.cs" />
+    <Compile Include="Assets\Scripts\EnemyScript.cs" />
+    <Compile Include="Assets\Scripts\GameControllerScript.cs" />
     <Compile Include="Assets\Scripts\PlayerScript.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/T2019-21/Documents/unity_to_march_shooting_game/ShootingGameProject/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
