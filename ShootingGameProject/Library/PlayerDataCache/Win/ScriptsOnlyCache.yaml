@@ -58,27 +58,27 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11152}
+      Script: {instanceID: 11176}
     - Class: 114
-      Script: {instanceID: 11322}
+      Script: {instanceID: 11346}
     - Class: 114
-      Script: {instanceID: 11694}
+      Script: {instanceID: 11422}
     - Class: 114
-      Script: {instanceID: 11734}
+      Script: {instanceID: 11720}
     - Class: 114
-      Script: {instanceID: 11780}
+      Script: {instanceID: 11760}
     - Class: 114
-      Script: {instanceID: 11846}
+      Script: {instanceID: 11806}
     - Class: 114
-      Script: {instanceID: 12182}
+      Script: {instanceID: 11872}
     - Class: 114
-      Script: {instanceID: 12512}
+      Script: {instanceID: 12208}
     - Class: 114
-      Script: {instanceID: 12702}
+      Script: {instanceID: 12538}
     - Class: 114
-      Script: {instanceID: 13084}
+      Script: {instanceID: 12728}
     - Class: 114
-      Script: {instanceID: 15174}
+      Script: {instanceID: 13110}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -182,6 +182,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
     className: TMP_InputField
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ExplosionScript
   - hash:
       serializedVersion: 2
       Hash: 7ab0e790220bdca831fdd886b339039d
@@ -548,14 +554,8 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: ExplosionScript
   platform: 5
   scenePathNames:
   - Assets/Scenes/MainScene.unity
-  playerPath: C:/Users/T2019-21/Documents/unity_to_march_shooting_game/shooting_exe/New
+  playerPath: C:/Users/T2019-21/Documents/yuki_production/game/unity/shooting_game_exe/New
     Unity Project.exe
