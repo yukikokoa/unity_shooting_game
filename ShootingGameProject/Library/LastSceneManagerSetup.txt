@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/MainScene.unity
+- path: C:/UseFrequentlyData/yuki_production/CompanyProject/19_025_RKT/19_025_RKT/Assets/Scene/RKT_v08.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
